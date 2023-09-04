@@ -14,6 +14,8 @@ const MealItemForm = (props) => {
           step: '1',
           defaultValue: '1',
         }}
+
+        
       />
       <button>+ Add</button>
     </form>
